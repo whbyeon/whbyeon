@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 ### 🔨 Ongoing Projects
-- Variants of GRPO
-- Social dilemmas with LLM-based agents
+- Game-theoretic approaches for LLM post-training
+- Social dilemmas, Mixed-motive games
 
 
 <!--
