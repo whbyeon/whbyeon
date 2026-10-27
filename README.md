@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 🔨 Ongoing Projects
-- Game-theoretic approaches for LLM post-training
+- Game-theoretic approaches for Machine Learning
 - Social dilemmas, Mixed-motive games
 
 
