@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-### 🔨 Ongoing Projects
-- Game-theoretic approaches for Machine Learning
-- Social dilemmas, Mixed-motive games
+
 
 
 <!--
